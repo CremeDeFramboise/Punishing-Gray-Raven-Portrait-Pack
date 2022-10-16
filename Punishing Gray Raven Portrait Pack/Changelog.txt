@@ -1,4 +1,12 @@
+[PGRPP Version 1.1] 10/16/2022
+==============================
+- Added more character portraits, a total of 50 now.
+==============================
+
+
+--| OLD CHANGELOGS |--
+
 [PGRPP Version 1.0] 12/22/2021
 ==============================
-- Initial release
+- Initial Discord release.
 ==============================
